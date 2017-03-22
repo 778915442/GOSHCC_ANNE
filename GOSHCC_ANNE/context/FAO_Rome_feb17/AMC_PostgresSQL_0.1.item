@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_3fm_oQ74Eeeve623gppkdQ" confirmationNeeded="false" name="AWS_run">
+    <contextParameter xmi:id="_3fm_og74Eeeve623gppkdQ" comment="" name="AMC_Login" prompt="AMC_Login?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_3fm_ow74Eeeve623gppkdQ" comment="" name="AMC_Database" prompt="AMC_Database?" promptNeeded="false" type="id_String" value="FAOROME"/>
+    <contextParameter xmi:id="_3fm_pA74Eeeve623gppkdQ" comment="" name="AMC_Server" prompt="AMC_Server?" promptNeeded="false" type="id_String" value="ctpvozfbrc0i.eu-west-1.rds.amazonaws.com"/>
+    <contextParameter xmi:id="_3fm_pQ74Eeeve623gppkdQ" comment="" name="AMC_Password" prompt="AMC_Password?" promptNeeded="false" type="id_Password" value="F8pg/Z2nJ2WoR26PWep4gfcr2/9jmuhBKpKugeOBOrM="/>
+    <contextParameter xmi:id="_3fm_pg74Eeeve623gppkdQ" comment="" name="AMC_Port" prompt="AMC_Port?" promptNeeded="false" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_3fm_pw74Eeeve623gppkdQ" comment="" name="AMC_Schema" prompt="AMC_Schema?" promptNeeded="false" type="id_String" value="amc"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_3fm_qA74Eeeve623gppkdQ" confirmationNeeded="false" name="LOCAL_run">
+    <contextParameter xmi:id="_3fm_qQ74Eeeve623gppkdQ" comment="" name="AMC_Login" prompt="AMC_Login?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_3fm_qg74Eeeve623gppkdQ" comment="" name="AMC_Database" prompt="AMC_Database?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_3fm_qw74Eeeve623gppkdQ" comment="" name="AMC_Server" prompt="AMC_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_3fm_rA74Eeeve623gppkdQ" comment="" name="AMC_Password" prompt="AMC_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_3fm_rQ74Eeeve623gppkdQ" comment="" name="AMC_Port" prompt="AMC_Port?" promptNeeded="false" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_3fm_rg74Eeeve623gppkdQ" comment="" name="AMC_Schema" prompt="AMC_Schema?" promptNeeded="false" type="id_String" value="amc"/>
+  </talendfile:ContextType>
+</xmi:XMI>
