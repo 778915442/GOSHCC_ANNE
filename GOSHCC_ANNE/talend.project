@@ -615,9 +615,9 @@
     <migrationTask xmi:id="_OMCxvQ74Eeeve623gppkdQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_MmRs0g74Eeeve623gppkdQ" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_NxrwAA74Eeeve623gppkdQ" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_aODE4A8KEeeY1aQc0k-e3Q" login="operator@company.com" firstName="operator" lastName="operator" type="DQ" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_aODE4Q8KEeeY1aQc0k-e3Q" project="_MmRs0Q74Eeeve623gppkdQ" branch="master" referencedBranch="master">
     <referencedProject href="../GLOBAL_REFERENCE2/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_NxrwAA74Eeeve623gppkdQ" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
